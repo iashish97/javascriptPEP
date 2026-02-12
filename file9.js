@@ -23,7 +23,8 @@
 
 
 
-let a = 10
-console.log(typeof a)
-let str =String(a)
-console.log(typeof str)
+// let a = 10
+// console.log(typeof a)
+// let str =String(a)
+// console.log(typeof str)
+

@@ -85,6 +85,7 @@ function placeOrder(){
 products.forEach((product)=>(console.log(product.id,product.name,product.desc,product.category)))
 
 
+
 addToCart(1);
 addToCart(3);
 addToCart(5);

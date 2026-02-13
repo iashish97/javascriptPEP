@@ -5,4 +5,4 @@ function table(x){
         console.log(`${x} x ${n} = ${n*x}`)
     }
 }
-table(10)
+table(7)

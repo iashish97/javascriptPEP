@@ -7,3 +7,4 @@ export const products = [
 export const showProducts = () => {
     products.forEach(p =>console.log(p.id, p.name, "- ₹" + p.price));
 };
+//comments
